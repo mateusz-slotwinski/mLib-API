@@ -1,0 +1,20 @@
+{
+  "name": "mlibapi",
+  "version": "1.0.0",
+  "description": "Api for mLib website",
+  "main": "main.go",
+  "scripts": {
+    "start": "air",
+    "test": "go test ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mLib-Project/mLibAPI.git"
+  },
+  "author": "Mateusz Słotwiński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mLib-Project/mLibAPI/issues"
+  },
+  "homepage": "https://github.com/mLib-Project/mLibAPI#readme"
+}
